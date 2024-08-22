@@ -30,3 +30,9 @@ pip install flask opencv-python dlib face-recognition
 git clone https://github.com/yourusername/facial-recognition-python.git
 cd facial-recognition-python
 ```
+2. Run the facial recognition script:
+
+```bash
+python facial_recognition.py
+```
+3. The script will start capturing video from your webcam and recognize faces based on the provided dataset.
