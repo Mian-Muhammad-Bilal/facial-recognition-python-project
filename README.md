@@ -21,10 +21,12 @@ The project follows these key steps:
 To run this project, you'll need to install the following Python packages:
 
 ```bash
-pip install flask opencv-python dlib face-recognition```
+pip install flask opencv-python dlib face-recognition
+   ```
 
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/facial-recognition-python.git```
-   ```cd facial-recognition-python```
+   git clone https://github.com/yourusername/facial-recognition-python.git
+   cd facial-recognition-python
+   ```
