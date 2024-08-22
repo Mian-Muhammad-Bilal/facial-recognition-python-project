@@ -36,3 +36,12 @@ cd facial-recognition-python
 python facial_recognition.py
 ```
 3. The script will start capturing video from your webcam and recognize faces based on the provided dataset.
+
+Implementation Details
+Libraries Used:
+OpenCV: For image processing and face detection.
+face_recognition: For feature extraction and face recognition.
+NumPy & Pandas: For data manipulation.
+Dlib: For visualizing results and performance metrics.
+Script Flow:
+The script captures video from the webcam, processes the frames, and compares detected faces with known faces in the dataset.
